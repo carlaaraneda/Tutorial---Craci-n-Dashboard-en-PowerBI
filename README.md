@@ -1,4 +1,4 @@
-# Tutorial---Craci-n-Dashboard-en-PowerBI
+# Tutorial - Cración Dashboard en PowerBI
 
 El README file contiene: Título y
 descripción del proyecto, instrucciones
