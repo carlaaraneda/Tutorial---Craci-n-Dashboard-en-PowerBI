@@ -17,6 +17,40 @@ Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continu
 
 ![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
 
+cargamos los archivos uno a uno: 
+- C4Lab4 (COMUNA).xlsx
+- C4Lab4 (PSU).xlsx
+- C4Lab4 (SIMCE).accdb
+
+Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
+
+![image](https://user-images.githubusercontent.com/52829923/213754909-db1b7edb-2535-415d-b13c-92773f28337e.png)
+
+Presuinamos **transformar datos** como se indica en la imagen de a continuación: 
+
+![image](https://user-images.githubusercontent.com/52829923/213754946-1af902bc-7069-42a1-b394-1b530aeed8ce.png)
+
+Luego, seleccionamos la tabla "COLEGIOS" y en la barra de herramientas seleccionamos "reducir filas" --> "quitar filas" --> "quitar filas superiores". Aparecerá la ventana que se muestra a continuación, donde debemos ingresar el número de filas que queremos eliminar, para nuestro caso en particular es 1, y presionamos ACEPTAR:
+
+![image](https://user-images.githubusercontent.com/52829923/213755018-92363aed-9f3d-4af4-9fd5-5e68693044f7.png)
+
+
+![image](https://user-images.githubusercontent.com/52829923/213755091-121588d6-3da7-4ea2-a58f-fb8e2ea5d037.png)
+
+Posteriormente, presionamos "utilizar la primera fila como encabezado":
+
+![image](https://user-images.githubusercontent.com/52829923/213756925-a00af6b7-c326-47f7-9fb6-f8b2a55ab378.png)
+
+Quedando la tabla COMUNA como se muestra a continuación: 
+
+![image](https://user-images.githubusercontent.com/52829923/213756961-e7ef2db1-9cec-4ee9-b8f1-aba7b2792be6.png)
+
+
+
+
+
+
+
 
 El README file contiene: Título y
 descripción del proyecto, instrucciones
