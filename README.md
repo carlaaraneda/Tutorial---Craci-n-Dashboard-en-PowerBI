@@ -11,7 +11,7 @@ Importante: La versión de escritorio de Microsoft Power BI sólo está disponib
 **Paso 2:**  Una vez instalada con éxito la aplicación de escritorio (en caso contrario, utilizar la aplicación online), procederemos a realizar el tutorial que consistirá en replicar parte del proyecto de visualización: "Dashboard de ejemplo" correspondiente a datos de PSU y SIMCE.
 
 ![Aquí la descripción de la imagen por si no carga]
-(https://github.com/carlaaraneda/Tutorial---Craci-n-Dashboard-en-PowerBI/Imagen2.png)
+(https://github.com/carlaaraneda/Tutorial---Craci-n-Dashboard-en-PowerBI/master/assets/Imagen2.png)
 
 El README file contiene: Título y
 descripción del proyecto, instrucciones
