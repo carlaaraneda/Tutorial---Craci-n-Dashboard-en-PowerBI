@@ -7,18 +7,23 @@ Dicho esto, ahora se detallará paso a paso las instrucciones de desarrollo de u
 
 ***********************************************************************************************************************************************************************
 
-<h2> **Paso 1:** Descargar e instalar Microsoft Power BI desde el siguiente link: https://powerbi.microsoft.com/es-es/desktop/. Una vez descargado el instalador (archivo .exe) siga las indicacaciones hasta finalizar la instalación. </h2>
+**ETAPA 1 - DESCARGA E INSTALACIÓN** 
+
+Descargar e instalar Microsoft Power BI desde el siguiente link: https://powerbi.microsoft.com/es-es/desktop/. Una vez descargado el instalador (archivo .exe) siga las indicacaciones hasta finalizar la instalación. 
 
 Importante: La versión de escritorio de Microsoft Power BI sólo está disponible para el sistema operativo Microsoft Windows. Si usted posee Mac OS deberá desarrollar sus tableros de visualización desde la aplicación online: https://app.powerbi.com/home
 ***********************************************************************************************************************************************************************
 
-**Paso 2:**  Una vez instalada con éxito la aplicación de escritorio (en caso contrario, utilizar la aplicación online), procederemos a realizar el tutorial que consistirá en replicar parte del proyecto de visualización: "Dashboard de ejemplo" correspondiente a datos de PSU y SIMCE.
+Una vez instalada con éxito la aplicación de escritorio (en caso contrario, utilizar la aplicación online), procederemos a realizar el tutorial que consistirá en el desarrollo de un objeto visual utilizando PowerBI.
+
+La siguiente imagen, muestra un proyecto términado, con múltiples objetos visuales en función de 3 archivos de datos.
 
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
 
 ***********************************************************************************************************************************************************************
 
-**Paso 3: Carga de Datos**
+**ETAPA 2 - CARGA DE DATOS**
+
 Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continuación:
 
 ![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
@@ -31,13 +36,15 @@ Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
 
 ***********************************************************************************************************************************************************************
 
-**Paso 4: Transformar datos**
+**ETAPA 3 - TRANSFORMAR DATOS**
 
-Presionamos **transformar datos** como se indica en la imagen de a continuación: 
+Presionamos **transformar datos** como se indica en la siguiente imagen:
 
 ![image](https://user-images.githubusercontent.com/52829923/213754946-1af902bc-7069-42a1-b394-1b530aeed8ce.png)
 
-Luego, seleccionamos la tabla "COLEGIOS" y en la barra de herramientas seleccionamos "reducir filas" --> "quitar filas" --> "quitar filas superiores". Aparecerá la ventana que se muestra a continuación, donde debemos ingresar el número de filas que queremos eliminar, para nuestro caso en particular es 1, y presionamos ACEPTAR:
+Luego, seleccionamos la tabla "COLEGIOS" y en la barra de herramientas seleccionamos: 
+"reducir filas" --> "quitar filas" --> "quitar filas superiores". 
+Aparecerá la ventana que se muestra a continuación, donde debemos ingresar el número de filas que queremos eliminar, para nuestro caso en particular es 1, y presionamos ACEPTAR:
 
 ![image](https://user-images.githubusercontent.com/52829923/213755018-92363aed-9f3d-4af4-9fd5-5e68693044f7.png)
 
@@ -52,12 +59,12 @@ Quedando la tabla COLEGIOS como se muestra a continuación:
 
 ![image](https://user-images.githubusercontent.com/52829923/213756961-e7ef2db1-9cec-4ee9-b8f1-aba7b2792be6.png)
 
-IMPORTANTE: Muchas veces no es necesario transformar los datos, dado que vienen listos para CARGAR. En ese caso, te sugiero saltarte este paso.
+IMPORTANTE: Muchas veces no es necesario transformar los datos, dado que vienen listos para CARGAR. En ese caso, te sugiero saltarte esta etapa.
 
 ***********************************************************************************************************************************************************************
-Realizamos el paso 4 con las tablas: COMUNA, REGION y VARIABLES. Las tablas COMUNA y REGION no necesitan ninguna transformación.
+Realizamos la etapa 3 con las tablas: COMUNA, REGION y VARIABLES. Las tablas COMUNA y REGION no necesitan ninguna transformación.
 ***********************************************************************************************************************************************************************
-Ahora procedemos a realizar los pasos 3 y 4 para los 2 archivos restantes:
+Ahora procedemos a realizar las etapas 2 y 3 para los 2 archivos restantes:
 - C4Lab4 (SIMCE).accdb
 - C4Lab4 (PSU).xlsx
 
@@ -67,7 +74,7 @@ NOTA: Para cargar "bases de datos" de Access debes presionar "OBTENER DATOS" -->
 
 ***********************************************************************************************************************************************************************
 
-**Paso 5: Crear relaciones entre las tablas cargadas**
+**ETAPA 4 - CREAR RELACIONES ENTRE LAS TABLAS CARGADAS**
 
 Para crear las relaciones entre las tablas debes arrastrar el "id" de la tabla con la tabla asociada respectiva. La siguiente imagen resume todas las realaciones entre tablas que hay que desarrollar:
 
@@ -78,7 +85,7 @@ Para crear las relaciones entre las tablas debes arrastrar el "id" de la tabla c
 
 ***********************************************************************************************************************************************************************
 
-**Paso 6: Crear objetos visuales**
+**ETAPA 5 - CREAR OBJETOS VISUALES**
 
 Comenzamos seleccionando el gráfico de torta en la barra VISUALIZACIONES:
 
@@ -96,7 +103,9 @@ Una vez selecciononados los valores, el objeto visual gráfico de torta queda de
 
 **COMENTARIO FINAL SOBRE EL TUTORIAL**
 
-Este trabajo tiene por objetivo instalar y tener un primer acercamiento con la herramienta de Microsoft Power BI.
+Este trabajo tiene por objetivo instalar y tener un primer acercamiento con la herramienta de Microsoft Power BI. Si bien es un tutorial sencillo, busca que conozcas la herramienta y te familiarices con el desarrollo de tableros de visualización.
+
+***********************************************************************************************************************************************************************
 
 
 
