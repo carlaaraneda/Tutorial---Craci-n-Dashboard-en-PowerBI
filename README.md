@@ -16,7 +16,7 @@ Importante: La versión de escritorio de Microsoft Power BI sólo está disponib
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
 ***********************************************************************************************************************************************************************
 
-**Paso 3: Carga de Datos*
+**Paso 3: Carga de Datos**
 Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continuación:
 
 ![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
