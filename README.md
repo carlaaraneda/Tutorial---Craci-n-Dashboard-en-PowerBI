@@ -4,25 +4,29 @@ El  presente tutoria  tiene por  objetivo la creación de  un dashboard utilizan
 Existen 2 maneras para utilizar esta herramienta, la primera es descargar la versión de escritorio y la segunda corresponde a trabajar en la web de manera online.
 Dicho esto, ahora se detallará paso a paso las instrucciones de desarrollo de un Dashboard:
 
+***********************************************************************************************************************************************************************
+
 **Paso 1:** Descargar e instalar Microsoft Power BI desde el siguiente link: https://powerbi.microsoft.com/es-es/desktop/. Una vez descargado el instalador (archivo .exe) siga las indicacaciones hasta finalizar la instalación.
 
 Importante: La versión de escritorio de Microsoft Power BI sólo está disponible para el sistema operativo Microsoft Windows. Si usted posee Mac OS deberá desarrollar sus tableros de visualización desde la aplicación online: https://app.powerbi.com/home
+***********************************************************************************************************************************************************************
 
 **Paso 2:**  Una vez instalada con éxito la aplicación de escritorio (en caso contrario, utilizar la aplicación online), procederemos a realizar el tutorial que consistirá en replicar parte del proyecto de visualización: "Dashboard de ejemplo" correspondiente a datos de PSU y SIMCE.
 
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
-
+***********************************************************************************************************************************************************************
 **Paso 3: Carga de Datos*
 Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continuación:
+
 ![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
 
 cargamos los archivos uno a uno, comenzando con: 
 - C4Lab4 (COMUNA).xlsx
 
 Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
-
 ![image](https://user-images.githubusercontent.com/52829923/213754909-db1b7edb-2535-415d-b13c-92773f28337e.png)
 
+***********************************************************************************************************************************************************************
 **Paso 4: Transformar datos**
 Presionamos **transformar datos** como se indica en la imagen de a continuación: 
 ![image](https://user-images.githubusercontent.com/52829923/213754946-1af902bc-7069-42a1-b394-1b530aeed8ce.png)
