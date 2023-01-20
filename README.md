@@ -93,3 +93,13 @@ Una vez selecciononados los valores, el objeto visual gráfico de torta queda de
 ![image](https://user-images.githubusercontent.com/52829923/213776845-31f9aa7e-7894-45d9-8f70-3e72e41e393a.png)
 
 ***********************************************************************************************************************************************************************
+
+**COMENTARIO FINAL SOBRE EL TUTORIAL**
+
+Este trabajo tiene por objetivo instalar y tener un primer acercamiento con la herramienta de Microsoft Power BI.
+
+
+
+
+
+
