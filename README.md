@@ -15,6 +15,7 @@ Importante: La versión de escritorio de Microsoft Power BI sólo está disponib
 
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
 ***********************************************************************************************************************************************************************
+
 **Paso 3: Carga de Datos*
 Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continuación:
 
@@ -25,8 +26,8 @@ cargamos los archivos uno a uno, comenzando con:
 
 Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
 ![image](https://user-images.githubusercontent.com/52829923/213754909-db1b7edb-2535-415d-b13c-92773f28337e.png)
-
 ***********************************************************************************************************************************************************************
+
 **Paso 4: Transformar datos**
 Presionamos **transformar datos** como se indica en la imagen de a continuación: 
 ![image](https://user-images.githubusercontent.com/52829923/213754946-1af902bc-7069-42a1-b394-1b530aeed8ce.png)
