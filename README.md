@@ -90,7 +90,7 @@ Posteriormente, al objeto gráfico de torta, le añadimos los elementos "leyenda
 
 Una vez selecciononados los valores, el objeto visual gráfico de torta queda de la siguiente manera:
 
-![image](https://user-images.githubusercontent.com/52829923/213776845-31f9aa7e-7894-45d9-8f70-3e72e41e393a.png)
+![image](https://user-images.githubusercontent.com/52829923/213787863-944cea73-a925-40cf-bbee-ca48e8482d2b.png)
 
 ***********************************************************************************************************************************************************************
 
