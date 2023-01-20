@@ -14,6 +14,7 @@ Importante: La versión de escritorio de Microsoft Power BI sólo está disponib
 **Paso 2:**  Una vez instalada con éxito la aplicación de escritorio (en caso contrario, utilizar la aplicación online), procederemos a realizar el tutorial que consistirá en replicar parte del proyecto de visualización: "Dashboard de ejemplo" correspondiente a datos de PSU y SIMCE.
 
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
+
 ***********************************************************************************************************************************************************************
 
 **Paso 3: Carga de Datos**
@@ -30,7 +31,9 @@ Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
 ***********************************************************************************************************************************************************************
 
 **Paso 4: Transformar datos**
+
 Presionamos **transformar datos** como se indica en la imagen de a continuación: 
+
 ![image](https://user-images.githubusercontent.com/52829923/213754946-1af902bc-7069-42a1-b394-1b530aeed8ce.png)
 
 Luego, seleccionamos la tabla "COLEGIOS" y en la barra de herramientas seleccionamos "reducir filas" --> "quitar filas" --> "quitar filas superiores". Aparecerá la ventana que se muestra a continuación, donde debemos ingresar el número de filas que queremos eliminar, para nuestro caso en particular es 1, y presionamos ACEPTAR:
