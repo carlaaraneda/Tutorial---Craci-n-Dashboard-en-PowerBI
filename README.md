@@ -1,4 +1,4 @@
-<h1 align="center"> Tutorial - Cración Dashboard en PowerBI </h1> 
+<h1 align="center"> Tutorial - Dashboard en PowerBI: Mi primer objeto visual </h1> 
 
 El  presente tutoria  tiene por  objetivo la creación de  un dashboard utilizando la herramienta Microsoft Power BI.
 Existen 2 maneras para utilizar esta herramienta, la primera es descargar la versión de escritorio y la segunda corresponde a trabajar en la web de manera online.
@@ -91,5 +91,4 @@ Una vez selecciononados los valores, el objeto visual gráfico de torta queda de
 
 ![image](https://user-images.githubusercontent.com/52829923/213776845-31f9aa7e-7894-45d9-8f70-3e72e41e393a.png)
 
-
-
+***********************************************************************************************************************************************************************
