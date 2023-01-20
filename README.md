@@ -58,38 +58,27 @@ Realizamos el paso 4 con las tablas: COMUNA, REGION y VARIABLES. Las tablas COMU
 ***********************************************************************************************************************************************************************
 Ahora procedemos a realizar los pasos 3 y 4 para los 2 archivos restantes:
 - C4Lab4 (SIMCE).accdb
+- C4Lab4 (PSU).xlsx
 
 NOTA: Para cargar "bases de datos" de Access debes presionar "OBTENER DATOS" --> "MAS..." y presionar "bases de datos access" como muestra la siguiente imagen:
+
 ![image](https://user-images.githubusercontent.com/52829923/213765614-7b7c4a08-ae99-4cb2-8a29-0036db8d619a.png)
 
+***********************************************************************************************************************************************************************
+
+**Paso 5: Crear relaciones entre las tablas cargadas**
+
+Para crear las relaciones entre las tablas debes arrastrar el "id" de la tabla con la tabla asociada respectiva. La siguiente imagen resume todas las realaciones entre tablas que hay que desarrollar:
+
+![image](https://user-images.githubusercontent.com/52829923/213773615-69f6f678-7d4f-4c67-9482-23aa44d66a29.png)
+
+
+**IMPORTANTE:** es necesario renombrar los "ID" de cada tabla, para facilitar esta etapa.
+
+***********************************************************************************************************************************************************************
+
+**Paso 6: Crear objetos visuales**
 
 
 
 
-El README file contiene: Título y
-descripción del proyecto, instrucciones
-claras de cómo usarlo, cómo replicarlo
-y ejecutarlo en un setting local,
-información de la licencia y posibles
-restricciones de uso. Además, incluye
-detalles técnicos de las librerías y
-versiones de las herramientas utilizadas
-
-El proyecto se puede ejecutar en
-plataforma web online, sin necesidad 
-de descargarlo localmente. Contiene
-secciones de: carga y visualización de
-datos, metodología de análisis,
-alcances, supuestos y limitaciones del
-análisis, resultados y conclusiones.
-
-El proyecto contiene herramientas de
-análisis adecuados para el volumen y
-tipos de datos. Se incluye herramientas
-de visualización y gráficas que permiten
-la interpretación directa de los
-resultados, sin necesidad de cargar los
-datos en otro software (e.g. Excel). Se
-incluye además, las justificaciones
-técnicas de los métodos estadísticos y
-analíticas de datos utilizadas
