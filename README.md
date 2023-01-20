@@ -22,7 +22,7 @@ Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continu
 
 ![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
 
-cargamos los archivos uno a uno, comenzando con: 
+Cargamos los archivos uno a uno, comenzando con: 
 - C4Lab4 (COMUNA).xlsx
 Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
 
@@ -79,6 +79,17 @@ Para crear las relaciones entre las tablas debes arrastrar el "id" de la tabla c
 
 **Paso 6: Crear objetos visuales**
 
+Comenzamos seleccionando el gráfico de torta en la barra VISUALIZACIONES:
+
+![image](https://user-images.githubusercontent.com/52829923/213776787-9245d4a1-c267-41f0-b92a-af0ef72664df.png)
+
+Posteriormente, al objeto gráfico de torta, le añadimos los elementos "leyenda" y "valores" desde la barra CAMPOS:
+
+![image](https://user-images.githubusercontent.com/52829923/213776809-b71c146c-7eb4-447d-959f-48d7a7faf846.png)
+
+Una vez selecciononados los valores, el objeto visual gráfico de torta queda de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/52829923/213776845-31f9aa7e-7894-45d9-8f70-3e72e41e393a.png)
 
 
 
