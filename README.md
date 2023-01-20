@@ -23,9 +23,10 @@ Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continu
 
 cargamos los archivos uno a uno, comenzando con: 
 - C4Lab4 (COMUNA).xlsx
-
 Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
+
 ![image](https://user-images.githubusercontent.com/52829923/213754909-db1b7edb-2535-415d-b13c-92773f28337e.png)
+
 ***********************************************************************************************************************************************************************
 
 **Paso 4: Transformar datos**
