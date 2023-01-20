@@ -12,22 +12,19 @@ Importante: La versión de escritorio de Microsoft Power BI sólo está disponib
 
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
 
+**Paso 3: Carga de Datos*
 Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continuación:
-
-
 ![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
 
-cargamos los archivos uno a uno: 
+cargamos los archivos uno a uno, comenzando con: 
 - C4Lab4 (COMUNA).xlsx
-- C4Lab4 (PSU).xlsx
-- C4Lab4 (SIMCE).accdb
 
 Para el archivo de COMUNA seleccionamos las 4 tablas que se han de cargar:
 
 ![image](https://user-images.githubusercontent.com/52829923/213754909-db1b7edb-2535-415d-b13c-92773f28337e.png)
 
-Presuinamos **transformar datos** como se indica en la imagen de a continuación: 
-
+**Paso 4: Transformar datos**
+Presionamos **transformar datos** como se indica en la imagen de a continuación: 
 ![image](https://user-images.githubusercontent.com/52829923/213754946-1af902bc-7069-42a1-b394-1b530aeed8ce.png)
 
 Luego, seleccionamos la tabla "COLEGIOS" y en la barra de herramientas seleccionamos "reducir filas" --> "quitar filas" --> "quitar filas superiores". Aparecerá la ventana que se muestra a continuación, donde debemos ingresar el número de filas que queremos eliminar, para nuestro caso en particular es 1, y presionamos ACEPTAR:
@@ -41,12 +38,20 @@ Posteriormente, presionamos "utilizar la primera fila como encabezado":
 
 ![image](https://user-images.githubusercontent.com/52829923/213756925-a00af6b7-c326-47f7-9fb6-f8b2a55ab378.png)
 
-Quedando la tabla COMUNA como se muestra a continuación: 
+Quedando la tabla COLEGIOS como se muestra a continuación: 
 
 ![image](https://user-images.githubusercontent.com/52829923/213756961-e7ef2db1-9cec-4ee9-b8f1-aba7b2792be6.png)
 
+IMPORTANTE: Muchas veces no es necesario transformar los datos, dado que vienen listos para CARGAR. En ese caso, te sugiero saltarte este paso.
 
+***********************************************************************************************************************************************************************
+Realizamos el paso 4 con las tablas: COMUNA, REGION y VARIABLES. Las tablas COMUNA y REGION no necesitan ninguna transformación.
+***********************************************************************************************************************************************************************
+Ahora procedemos a realizar los pasos 3 y 4 para los 2 archivos restantes:
+- C4Lab4 (SIMCE).accdb
 
+NOTA: Para cargar "bases de datos" de Access debes presionar "OBTENER DATOS" --> "MAS..." y presionar "bases de datos access" como muestra la siguiente imagen:
+![image](https://user-images.githubusercontent.com/52829923/213765614-7b7c4a08-ae99-4cb2-8a29-0036db8d619a.png)
 
 
 
