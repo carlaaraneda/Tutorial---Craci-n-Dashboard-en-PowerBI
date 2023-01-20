@@ -13,7 +13,11 @@ Importante: La versión de escritorio de Microsoft Power BI sólo está disponib
 ![image](https://user-images.githubusercontent.com/52829923/213713988-de57eacb-1166-42cc-9662-40f3ad37baa5.png)
 
 Comenzamos presionando "OBTENER DATOS" como se muestra en la imagen de a continuación:
-[Imagen3.png](https://github.com/carlaaraneda/Tutorial---Craci-n-Dashboard-en-PowerBI/blob/main/Imagen3.png)
+
+
+![image](https://user-images.githubusercontent.com/52829923/213748199-e1080fa4-7cbd-40ce-a17d-2bb555565c18.png)
+
+
 El README file contiene: Título y
 descripción del proyecto, instrucciones
 claras de cómo usarlo, cómo replicarlo
